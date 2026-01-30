@@ -17,3 +17,4 @@
 | winver       | Win + R → winver → Enter |
 | msinfo32     | Win + R → msinfo32 → Enter |
 | slmgr /xpr   | Príkazový riadok (ako správca) | 
+ 

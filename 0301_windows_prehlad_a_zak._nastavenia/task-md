@@ -4,10 +4,10 @@
 
 | Vlastnosť            | Hodnota |
 |----------------------|---------|
-| Verzia Windows       | Windows 11       |
-| Edícia (Home / Pro)  | Home       |
-| Typ účtu             |  lokálny účet     |
-| Procesor             | Intel core i7 12700H      |
+| Verzia Windows       | Windows 11 |
+| Edícia (Home / Pro)  | Home |
+| Typ účtu             |  lokálny účet |
+| Procesor             | Intel core i7 12700H |
 
 
 ## Domáca úloha 2 – Príkazy vo Windows

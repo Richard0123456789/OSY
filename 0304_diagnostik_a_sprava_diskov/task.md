@@ -1,9 +1,7 @@
 # Úloha 1
-
-## Problém
 Internet nefungoval a pri ikonke siete bola šípka smerom dole.
 
-## Riešenie
+## Úloha 1 pokračovanie
 Zobrazoval sa chybový kód 22, čo znamená, že zariadenie bolo zakázané.
 Po jeho povolení sa ikonka vrátila do normálneho stavu a internet opäť fungoval správne.
 

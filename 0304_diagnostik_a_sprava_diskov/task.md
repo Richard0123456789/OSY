@@ -1,17 +1,22 @@
-# uloha 1:
-internet nefunguje a pri ikonke je sipka dole
+# Úloha 1
 
-# uloha 1 pokracovanie: 
-chybny kod 22, po povoleni je ikonka je normalna a vsetko funguje ako predtym
+## Problém
+Internet nefungoval a pri ikonke siete bola šípka smerom dole.
 
-# uloha 2:
-| Udaj        | Hodnota        |
-|-----------------|-----------------|
-| Pocet fyzickych diskov    | 1    |
-| Typ rozdelenia (MBR/GPT)    | MBR    |
-| Celkova kapacita disku 0    | 523MB    |
-| Pocet particii na disko 0    | 3    |
-| Suborovy sytsem na C:    | NTFS    |
-| Volne miesto na C:    | 402,48GB    |
+## Riešenie
+Zobrazoval sa chybový kód 22, čo znamená, že zariadenie bolo zakázané.
+Po jeho povolení sa ikonka vrátila do normálneho stavu a internet opäť fungoval správne.
+
+
+# Úloha 2
+
+| Údaj | Hodnota |
+|---------------------------|----------------|
+| Počet fyzických diskov | 1 |
+| Typ rozdelenia (MBR/GPT) | MBR |
+| Celková kapacita disku 0 | 523 MB |
+| Počet partícií na disku 0 | 3 |
+| Súborový systém na C: | NTFS |
+| Voľné miesto na C: | 402,48 GB |
 
 

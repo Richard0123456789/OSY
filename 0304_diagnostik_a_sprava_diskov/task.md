@@ -1,9 +1,10 @@
-uloha 1:
+# uloha 1:
 internet nefunguje a pri ikonke je sipka dole
-uloha 1 pokracovanie: 
+
+# uloha 1 pokracovanie: 
 chybny kod 22, po povoleni je ikonka je normalna a vsetko funguje ako predtym
 
-uloha 2:
+# uloha 2:
 | Udaj        | Hodnota        |
 |-----------------|-----------------|
 | Pocet fyzickych diskov    | 1    |

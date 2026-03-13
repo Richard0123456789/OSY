@@ -118,7 +118,7 @@ lebo ak sa pravidelne neaktualizuje, zostavaju v nom bezpecnostne zranitelnosti 
 
                                        5. Vysvetlite, čo je politika uzamknutia účtu a proti akému typu útoku chráni:
 
-                                          →
+                                          je to funkcia ktora po par neuspesnych pokusoch docasne zablokuje ucet, chrani proti brute-force attack
 
                                           ### 3.2 Praktická časť – politiky hesiel
 

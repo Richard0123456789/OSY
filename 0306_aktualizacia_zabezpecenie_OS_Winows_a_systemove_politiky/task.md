@@ -145,7 +145,7 @@ lebo ak sa pravidelne neaktualizuje, zostavaju v nom bezpecnostne zranitelnosti 
                                              2. Potvrďte dobu uzamknutia **30 minút**
                                              3. Spustite `gpupdate /force`
 
-                                             - [ ] Hotovo
+                                             - [✓ ] Hotovo
 
                                              **Vyskúšajte zakázať CMD:**
 
@@ -160,7 +160,7 @@ lebo ak sa pravidelne neaktualizuje, zostavaju v nom bezpecnostne zranitelnosti 
 
                                              2. **DÔLEŽITÉ:** Vráťte politiku späť na **Nekonfigurované** a spustite `gpupdate /force`!
 
-                                             - [ ] Vrátené
+                                             - [✓ ] Vrátené
 
                                              ---
 

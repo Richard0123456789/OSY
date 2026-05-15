@@ -113,7 +113,6 @@ ps aux | wc -l
 214
 ```
 
-> *(Tip: výstup `wc -l` zahŕňa aj hlavičku, takže odpočítaj 1.)*
 
 ### 3.2 Spusti `ps aux | grep bash`. Nájdi svoj `bash` — aké je jeho PID?
 
@@ -127,7 +126,6 @@ ps aux | grep bash
 2487
 ```
 
-> *(Pozor: jeden riadok bude tvoj `grep` — ten neráta.)*
 
 ### 3.3 Spusti `ps -p 1`. Aký proces má PID 1?
 

@@ -17,21 +17,21 @@
 
 ### 1.2 Spusti `which ls`. Kde reálne leží `ls`?
 
-```bash
+bash
 /usr/bin/ls
 ```
 
 ### 1.3 Spusti `which` s nejakým iným programom (napr. `python3`, `nano`, `firefox`):
 
-```bash
+bash
 which python3
-```
+
 
 **Výstup:**
 
-```bash
+bash
 /usr/bin/python3
-```
+
 
 ### 1.4 Aký je rozdiel medzi `/bin` a `/sbin`?
 
@@ -43,9 +43,9 @@ v `/bin` sú normálne príkazy pre používateľa a v `/sbin` hlavne systémov�
 
 ### 2.1 Spusti `cat /etc/hostname`. Ako sa volá tvoj počítač?
 
-```bash
+bash
 mint
-```
+
 
 ### 2.2 Spusti `cat /etc/passwd | grep $USER`. Skopíruj **celý riadok**:
 
@@ -131,13 +131,13 @@ Linux mint 6.8.0-31-generic #31-Ubuntu SMP x86_64 GNU/Linux
 
 ### 4.1 Funguje `ls -la` aj na **macOS**?
 
-- [x] áno
-- [ ] nie
+áno
+
 
 ### 4.2 Funguje `ls -la` v **CMD na Windowse** (bez WSL)?
 
-- [ ] áno
-- [x] nie
+
+nie
 
 ### 4.3 Prečo rovnaký bash skript beží na **Linuxe aj na MacBooku**?
 
@@ -227,8 +227,5 @@ Filesystem      Size  Used Avail Use%
 
 ### Z dnešnej hodiny — ktorý adresár si **najlepšie zapamätáš** a prečo?
 
-`/etc`, lebo tam sú skoro všetky konfigurácie systému
-
 ### Aký bol **najprekvapivejší** poznatok dnešnej hodiny?
-
-že veľa informácií o systéme sa dá zistiť aj bez sudo práv
+netusim chybal som

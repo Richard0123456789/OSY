@@ -15,27 +15,29 @@
 - pwd
 - mkdir
 
+## Úloha 1 — Práca s príkazmi
+
 ### 1.2 Spusti `which ls`. Kde reálne leží `ls`?
 
-bash
+```bash
 /usr/bin/ls
 ```
 
 ### 1.3 Spusti `which` s nejakým iným programom (napr. `python3`, `nano`, `firefox`):
 
-bash
+```bash
 which python3
-
+```
 
 **Výstup:**
 
-bash
+```bash
 /usr/bin/python3
-
+```
 
 ### 1.4 Aký je rozdiel medzi `/bin` a `/sbin`?
 
-v `/bin` sú normálne príkazy pre používateľa a v `/sbin` hlavne systémové príkazy pre administrátora
+V adresári `/bin` sa nachádzajú bežné príkazy dostupné pre všetkých používateľov, zatiaľ čo `/sbin` obsahuje hlavne systémové a administrátorské príkazy určené pre správcu systému.
 
 ---
 
@@ -43,9 +45,9 @@ v `/bin` sú normálne príkazy pre používateľa a v `/sbin` hlavne systémov�
 
 ### 2.1 Spusti `cat /etc/hostname`. Ako sa volá tvoj počítač?
 
-bash
+```bash
 mint
-
+```
 
 ### 2.2 Spusti `cat /etc/passwd | grep $USER`. Skopíruj **celý riadok**:
 
